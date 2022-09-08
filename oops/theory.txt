@@ -1,0 +1,33 @@
+CLASS :- Design, or Blueprint, or Template
+
+
+OBJECT :- Instances 
+
+
+there are two types of variable in CLASS   
+1. instance variable 
+    - seperate for each OBJECT
+    - 
+
+2. class variable(global variable)
+    - only one variable of class
+    - all the objets shares the same variable
+
+
+
+TYPES OF METHODS
+
+1. instance method 
+    objects sathi aste 
+    yat apan 'self(object)' keyword pathvto
+    
+
+2. class method 
+    class chya data la manupulate karnysathi vaprto
+    yat apn 'cls(class)' pathvto
+    '@classmethod' he decorator lavave lagte 
+
+3. static method 
+    kahich arguments nahi pathvat 
+    hya method cha class and object shi kahi attributes access hot nastat
+    '@staticmethod' he decorator lavave lagte
