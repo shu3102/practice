@@ -294,7 +294,7 @@ class Parent2():
 	def display(self):
 		print("Inside Parent2")
 		
-		
+
 # Defining child class
 class Child(Parent1, Parent2):
 		
